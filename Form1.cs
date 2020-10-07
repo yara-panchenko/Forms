@@ -123,6 +123,7 @@ namespace Forms
                 tabControl.Controls.Add(page3);
                 tabControl.SelectedIndex = 2;//0,1,2
                 this.Controls.Add(tabControl);
+
             }
             else if (e.Node.Text == "MessageBox")
             {
