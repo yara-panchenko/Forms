@@ -124,7 +124,6 @@ namespace Forms
                 tabControl.SelectedIndex = 2;//0,1,2
                 this.Controls.Add(tabControl);
 
-
             }
             else if (e.Node.Text == "MessageBox")
             {
